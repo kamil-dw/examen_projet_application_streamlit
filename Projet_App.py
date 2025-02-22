@@ -75,7 +75,7 @@ def scrape_autres_animaux(num_pages):
 st.set_page_config(page_title="Scraping de Coinafrica", page_icon="🐔", layout="wide")
 
 # Titre de l'application
-st.title("Scraping de Coinafricaa 🐔🐰🐦")
+st.title("Application de scraping de Coinafrica ")
 st.markdown("""
     <style>
     .stButton button {
